@@ -1,0 +1,164 @@
+{
+  "tests": [
+    {
+      "name": "Crea Array",
+      "setup": "",
+      "run": "gradle test --tests ArrayHandlerTest.test01CreaArray",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Busqueda Lineal",
+      "setup": "",
+      "run": "gradle test --tests ArrayHandlerTest.test01BusquedaLineal",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Busqueda Dicotomica",
+      "setup": "",
+      "run": "gradle test --tests ArrayHandlerTest.test02BusquedaDicotomica",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Rellena Aletorio",
+      "setup": "",
+      "run": "gradle test --tests ArrayHandlerTest.test03RellenaAleatorio",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Equals Unidimensional",
+      "setup": "",
+      "run": "gradle test --tests ArrayHandlerTest.test04EqualsUnidimensional",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Equals Bidimensional",
+      "setup": "",
+      "run": "gradle test --tests ArrayHandlerTest.test05EqualsBidimensional",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Equals Tridimensional",
+      "setup": "",
+      "run": "gradle test --tests ArrayHandlerTest.test06EqualsTridimensional",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Equals Class Cast Exception",
+      "setup": "",
+      "run": "gradle test --tests ArrayHandlerTest.test07EqualsCastException",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Rellena Array Unidimensional",
+      "setup": "",
+      "run": "gradle test --tests ArrayHandlerTest.test08RellenaArrayUni",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Rellena Array Tridimensional",
+      "setup": "",
+      "run": "gradle test --tests ArrayHandlerTest.test09RellenaArrayTri",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Ordena  Intercambio",
+      "setup": "",
+      "run": "gradle test --tests ArrayHandlerTest.test10OrdenaIntercambio",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Ordena Selección",
+      "setup": "",
+      "run": "gradle test --tests ArrayHandlerTest.test11OrdenaSeleccion",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Ordena Burbuja",
+      "setup": "",
+      "run": "gradle test --tests ArrayHandlerTest.test12OrdenaBurbuja",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Ordena Inserción",
+      "setup": "",
+      "run": "gradle test --tests ArrayHandlerTest.test13Insercion",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Ordena QuickSort",
+      "setup": "",
+      "run": "gradle test --tests ArrayHandlerTest.test14QuickSort",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Rellena Array Bidimensional",
+      "setup": "",
+      "run": "gradle test --tests ArrayHandlerTest.test09RellenaArrayBi",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    }
+  ]
+}
